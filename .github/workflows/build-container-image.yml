@@ -14,7 +14,7 @@ env:
   REGISTRY: ghcr.io
   IMAGE_NAME:  nuzat-tabassum/tobira
   DOCKERFILE: util/containers/Dockerfile
-  VERSIONS_FILE: util/containers/versions.env
+  VERSIONS_FILE: util/scripts/versions.env
 
   
 jobs:
